@@ -1,1 +1,1 @@
-# book-list-api
+# A book list GraphQL API
